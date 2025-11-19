@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=slice&color=0:be3c3c,100:386db2&height=120&text=Welcome to My Github!&animation=scaleIn&fontColor=ffffff&fontSize=60" />
+    <img src="https://capsule-render.vercel.app/api?type=slice&color=0:be3c3c,100:386db2&height=120&text=Welcome%20to%20My%20Github!&animation=scaleIn&fontColor=ffffff&fontSize=60" />
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 안녕하세요 jammd1입니다. </h2>  
