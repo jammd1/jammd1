@@ -84,8 +84,6 @@ Replaced a single-Excel catalog and a paper loan ledger with a full web service 
 
 <br>
 
-> 🌱 Currently exploring a **Git-metaphor productivity app** — goals as `main`, sub-plans as feature branches, tasks as commits, with a GitHub-style heatmap.
-
 ---
 
 ### 📫 Reach me
