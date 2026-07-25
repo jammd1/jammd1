@@ -6,7 +6,7 @@
 
 ### About me
 
-- 📱 Mobile developer at **주식회사 클래씨 (Classy Inc.)**, a Start-Up — a tutoring marketplace connecting students and tutors
+- 📱 Mobile developer at **주식회사 클래씨 (Classy)**, Start-Up — a tutoring marketplace connecting students and tutors
 - ⚙️ I work across **Flutter** and **native Android (Kotlin / Jetpack Compose)** at the same time, usually within **Clean Architecture**
 - 🤖 Curious about AI, the humanities, and thoughtful product design
 - 🌏 Based in South Korea
@@ -64,13 +64,23 @@ A single learning loop — conversation → correction → save → spaced repet
 **[ToWeather](https://github.com/jammd1/ToWeather)** — Weather app
 `Kotlin` · native Android
 
+<br>
+
+**[Oh-ji-go](https://github.com/jammd1/ohjigo_library)** — Digitizing HUFS's Austrian Library, analog → web &nbsp;·&nbsp; *team project · HUFS H-UP 10th*
+
+Replaced a single-Excel catalog and a paper loan ledger with a full web service — book search, membership/login, loan status, and library info.
+
+- My role: **database design (ERD) + Django backend logic**
+- Team also built an mBERT-based book-field classifier and an automated call-number generator
+
+`Django` · `Python` · database / ERD design
+
 ---
 
 ### 🧪 Learning & Experiments
 
 - **[CA_practice](https://github.com/jammd1/CA_practice)** — Clean Architecture practice
 - **[Flutter_Lab](https://github.com/jammd1/Flutter_Lab)** — Flutter experiments
-- **[ohjigo_library](https://github.com/jammd1/ohjigo_library)** — Austrian Library (HUFS) app
 
 <br>
 
