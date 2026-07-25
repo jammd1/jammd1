@@ -30,7 +30,7 @@
 
 ### 🚀 Featured Work
 
-**클래씨 (Classi)** — Tutoring marketplace &nbsp;·&nbsp; *production app, main repo private*
+**클래씨 (Classy)** — Tutoring marketplace &nbsp;·&nbsp; *production app, main repo private*
 
 Building the mobile app end to end. Selected highlights:
 
