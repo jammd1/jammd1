@@ -6,7 +6,7 @@
 
 ### About me
 
-- 📱 Mobile developer at **주식회사 클래씨 (Classi)** — a tutoring marketplace connecting students and tutors
+- 📱 Mobile developer at **주식회사 클래씨 (Classy Inc.)** — a tutoring marketplace connecting students and tutors
 - ⚙️ I work across **Flutter** and **native Android (Kotlin / Jetpack Compose)** at the same time, usually within **Clean Architecture**
 - 🤖 Curious about AI, the humanities, and thoughtful product design
 - 🌏 Based in South Korea
