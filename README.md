@@ -34,11 +34,11 @@
 
 Building the mobile app end to end. Selected highlights:
 
-- Real-time chat on Firestore (KakaoTalk-style UI, scroll-to-bottom on send)
-- VOD lecture player with `media_kit` — PiP, fullscreen, rental access control, comment overlay
+- Real-time chat on Websocket
+- VOD lecture player with `media_kit` — fullscreen, rental access control, comment overlay
 - Duplicate-login prevention: forced logout of the original device + stale-flag recovery to avoid lockout
 - Account API v2 — instructor signup/login, media serving, soft-delete / withdrawal
-- Like/favorite state shared across Flutter & Android in Clean Architecture (optimistic update with rollback, Riverpod + Hilt)
+- Like/favorite state shared across Flutter in Clean Architecture (optimistic update with rollback, Riverpod + Hilt)
 
 🔗 [classystudy.com](https://classystudy.com) &nbsp;·&nbsp; web repo: [classy-web](https://github.com/jammd1/classy-web) (React + TypeScript + Vite)
 
